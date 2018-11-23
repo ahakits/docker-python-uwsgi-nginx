@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+uwsgi==2.0.17.1
